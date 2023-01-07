@@ -1,0 +1,24 @@
+﻿body {
+}
+
+header {
+    border: thick;
+    padding: 25px;
+    text-align: right;
+    background-color: sandybrown;
+    font-size: 20px;
+}
+
+.button {
+    background-color: #FFCC99;
+    border: 1px solid yellow;
+    cursor: pointer;
+    color: Silver;
+    border-radius: 4px;
+}
+
+    .button:hover {
+        background-color: #FF9933;
+        box-shadow: 0 0 10px #FF99CC;
+        color: Menu;
+    }

@@ -1,0 +1,16 @@
+﻿header {
+    border: thick;
+    padding: 25px;
+    text-align: right;
+    background-color: sandybrown;
+    font-size: 20px;
+}
+table, th, td {
+    border:1px solid;
+}
+tr{
+    height:50px;
+}
+table{
+    width:60%;
+}

@@ -1,0 +1,12 @@
+﻿body {
+    background-image: url('../Guest/GH.jpg');
+    background-size: cover;
+}
+
+header {
+    border: thick;
+    padding: 25px;
+    text-align: right;
+    background-color: sandybrown;
+    font-size: 20px;
+}
